@@ -1,0 +1,32 @@
+#precio {
+    text-align: right;
+    color: #707070A0;
+    font-size: small;
+    font-weight: bold;
+}
+
+.bar {
+    margin-right: 60%;
+    width: 7.5%;
+    height: 7.5%;
+}
+.logo {
+    width: 5%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contacto {
+
+    display: block;
+    width: 100%;
+}
+
+#titulo {
+    padding: 30px;
+}
+body {
+    font-family: "Roboto light", sans-serif;
+  }
+  
